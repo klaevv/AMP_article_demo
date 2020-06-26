@@ -1,0 +1,35 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "Lue aiheesta lisää"
+    },
+    {
+      "type": "small",
+      "title": "CDC: Yhdysvalloissa jopa 23 miljoonaa koronavirustartuntaa",
+      "url": "https://yle.fi/uutiset/3-11419184",
+      "image": "assets/usa.jpg"
+    },
+    {
+      "type": "small",
+      "title": "Vaasassa kokeiltu koronatartuntasovellus törmäsi teknisiin pulmiin ja muistuttaa yksityisyyden suojan asettamista rajoista",
+      "url": "https://yle.fi/uutiset/3-11417047",
+      "image": "assets/vaasa.jpg"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Yle",
+          "url": "https://yle.fi/"
+        }
+      ]
+    }
+  ]
+}
